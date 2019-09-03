@@ -9,4 +9,3 @@ creating a first repo for stat 579
 - I usually work with spatial data
 - I usually make sure my data is correct and does not have pitfalls. Then I start working on it. 
 
-- 3*4
