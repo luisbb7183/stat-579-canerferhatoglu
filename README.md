@@ -4,6 +4,8 @@
 
 creating a first repo for stat 579
 
+Luis was here, check it!
+
 - list item 1
 - list item 2
 
